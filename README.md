@@ -26,7 +26,7 @@ Siga essas etapas:
 Baixe o arquivo JSON e importe direto para o contêiner do GTM que deve receber os eventos para o dataLayer. Acesse a guia "Administrador" do GTM.
 ```
 
-<img src="/assets/img/1.gif">
+<img src="./assets/1.gif">
 
 
 E repita:
@@ -36,7 +36,7 @@ Após acessar a guia "Administrador" basta importar o contêiner, escolher o wor
 
 ```
 
-<img src="/assets/img/2.gif">
+<img src="./assets/2.gif">
 
 Importante: Sempre valide se você deseja substituir todos os elementos do contêiner ou se precisa apenas combinar os novos eventos com os antigos.
 
